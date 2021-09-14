@@ -1,5 +1,4 @@
-## SQL sorguları yapıldı.
-Arama ve mantıksal operatörler.
+## SQL sorguları ödevleri
 
 sorgu  -> ODEV 1
 
